@@ -133,7 +133,7 @@ namespace UnityEssentials
                 {
                     hdData.SetCookie(source.cookie);
                     target.cookie = source.cookie;
-                    target.cookieSize = source.cookieSize;
+                    target.cookieSize2D = source.cookieSize2D;
                 }
             }
         }
